@@ -1,251 +1,45 @@
-#EXTM3U 
-#EXTINF:-1 group-title="INDIA TV",IN: B4U Movies
-http://red.ipfox.org:8080/1234/12345678/25467
-#EXTINF:-1 group-title="INDIA TV",IN: B4U Music
-http://red.ipfox.org:8080/1234/12345678/25466
-#EXTINF:-1 group-title="INDIA TV",IN: SAB TV
-http://red.ipfox.org:8080/1234/12345678/25465
-#EXTINF:-1 group-title="INDIA TV",IN: SET Max
-http://red.ipfox.org:8080/1234/12345678/25462
-#EXTINF:-1 group-title="INDIA TV",IN: Zee TV HD
-http://red.ipfox.org:8080/1234/12345678/25460
-#EXTINF:-1 group-title="INDIA TV",IN: TV Asia
-http://red.ipfox.org:8080/1234/12345678/25459
-#EXTINF:-1 group-title="INDIA TV",IN: Times Now
-http://red.ipfox.org:8080/1234/12345678/25458
-#EXTINF:-1 group-title="INDIA TV",IN: Zee Cinema
-http://red.ipfox.org:8080/1234/12345678/25457
-#EXTINF:-1 group-title="INDIA TV",IN: Aastha TV
-http://red.ipfox.org:8080/1234/12345678/25456
-#EXTINF:-1 group-title="INDIA TV",IN: Food Food
-http://red.ipfox.org:8080/1234/12345678/25455
-#EXTINF:-1 group-title="INDIA TV",IN: Jus Hindi
-http://red.ipfox.org:8080/1234/12345678/25454
-#EXTINF:-1 group-title="INDIA TV",IN: MTV India
-http://red.ipfox.org:8080/1234/12345678/25453
-#EXTINF:-1 group-title="INDIA TV",IN: Colors Rishtey
-http://red.ipfox.org:8080/1234/12345678/25452
-#EXTINF:-1 group-title="INDIA TV",IN: Aastha Bhajan
-http://red.ipfox.org:8080/1234/12345678/25451
-#EXTINF:-1 group-title="INDIA TV",IN: Sanskar
-http://red.ipfox.org:8080/1234/12345678/25450
-#EXTINF:-1 group-title="INDIA TV",IN: Zing
-http://red.ipfox.org:8080/1234/12345678/25449
-#EXTINF:-1 group-title="INDIA TV",IN: & TV
-http://red.ipfox.org:8080/1234/12345678/25448
-#EXTINF:-1 group-title="INDIA TV",IN: Living Foodz
-http://red.ipfox.org:8080/1234/12345678/25447
-#EXTINF:-1 group-title="INDIA TV",IN: Zee News
-http://red.ipfox.org:8080/1234/12345678/25446
-#EXTINF:-1 group-title="INDIA TV",IN: India 24x7
-http://red.ipfox.org:8080/1234/12345678/25445
-#EXTINF:-1 group-title="INDIA TV",IN: Zee MP & Chhattisgarh
-http://red.ipfox.org:8080/1234/12345678/25444
-#EXTINF:-1 group-title="INDIA TV",IN: Zee Cinema HD
-http://red.ipfox.org:8080/1234/12345678/25443
-#EXTINF:-1 group-title="INDIA TV",IN: Zee Classic
-http://red.ipfox.org:8080/1234/12345678/25442
-#EXTINF:-1 group-title="INDIA TV",IN: Zee Anmol
-http://red.ipfox.org:8080/1234/12345678/25441
-#EXTINF:-1 group-title="INDIA TV",IN: Colors Cineplex
-http://red.ipfox.org:8080/1234/12345678/25440
-#EXTINF:-1 group-title="INDIA TV",IN: ZETC Bollywood
-http://red.ipfox.org:8080/1234/12345678/25439
-#EXTINF:-1 group-title="INDIA TV",IN: Zee Business
-http://red.ipfox.org:8080/1234/12345678/25438
-#EXTINF:-1 group-title="INDIA TV",IN: Zee Rajasthan
-http://red.ipfox.org:8080/1234/12345678/25437
-#EXTINF:-1 group-title="INDIA TV",IN: Total TV
-http://red.ipfox.org:8080/1234/12345678/25436
-#EXTINF:-1 group-title="INDIA TV",IN: JK Channel
-http://red.ipfox.org:8080/1234/12345678/25435
-#EXTINF:-1 group-title="INDIA TV",IN: Sadhna Prime News
-http://red.ipfox.org:8080/1234/12345678/25434
-#EXTINF:-1 group-title="INDIA TV",IN: Channel One News
-http://red.ipfox.org:8080/1234/12345678/25433
-#EXTINF:-1 group-title="INDIA TV",IN: Soham
-http://red.ipfox.org:8080/1234/12345678/25432
-#EXTINF:-1 group-title="INDIA TV",IN: iPlus TV
-http://red.ipfox.org:8080/1234/12345678/25431
-#EXTINF:-1 group-title="INDIA TV",IN: Kathyani TV
-http://red.ipfox.org:8080/1234/12345678/25430
-#EXTINF:-1 group-title="INDIA TV",IN: News18 MP Chhattisgarah
-http://red.ipfox.org:8080/1234/12345678/25429
-#EXTINF:-1 group-title="INDIA TV",IN: Arihant
-http://red.ipfox.org:8080/1234/12345678/25428
-#EXTINF:-1 group-title="INDIA TV",IN: News18 Bihar Jharkhand
-http://red.ipfox.org:8080/1234/12345678/25427
-#EXTINF:-1 group-title="INDIA TV",IN: News18 Rajasthan
-http://red.ipfox.org:8080/1234/12345678/25426
-#EXTINF:-1 group-title="INDIA TV",IN: News18 UP Uttakhrand
-http://red.ipfox.org:8080/1234/12345678/25425
-#EXTINF:-1 group-title="INDIA TV",IN: News18 India
-http://red.ipfox.org:8080/1234/12345678/25424
-#EXTINF:-1 group-title="INDIA TV",IN: Hindi Khabar
-http://red.ipfox.org:8080/1234/12345678/25423
-#EXTINF:-1 group-title="INDIA TV",IN: Ishwar
-http://red.ipfox.org:8080/1234/12345678/25422
-#EXTINF:-1 group-title="INDIA TV",IN: Sadhna Plus News
-http://red.ipfox.org:8080/1234/12345678/25421
-#EXTINF:-1 group-title="INDIA TV",IN: Vaani TV
-http://red.ipfox.org:8080/1234/12345678/25420
-#EXTINF:-1 group-title="INDIA TV",IN: Zee Smile
-http://red.ipfox.org:8080/1234/12345678/25419
-#EXTINF:-1 group-title="INDIA TV",IN: Shubh TV
-http://red.ipfox.org:8080/1234/12345678/25418
-#EXTINF:-1 group-title="INDIA TV",IN: Satsang TV
-http://red.ipfox.org:8080/1234/12345678/25417
-#EXTINF:-1 group-title="INDIA TV",IN: Sony Max 2
-http://red.ipfox.org:8080/1234/12345678/25416
-#EXTINF:-1 group-title="INDIA TV",IN: Sony Pal
-http://red.ipfox.org:8080/1234/12345678/25415
-#EXTINF:-1 group-title="INDIA TV",IN: Sony Yay
-http://red.ipfox.org:8080/1234/12345678/25414
-#EXTINF:-1 group-title="INDIA TV",IN: R.Bharat
-http://red.ipfox.org:8080/1234/12345678/25413
-#EXTINF:-1 group-title="INDIA TV",IN: Republic TV
-http://red.ipfox.org:8080/1234/12345678/25412
-#EXTINF:-1 group-title="INDIA TV",URDU: ARY Digital
-http://red.ipfox.org:8080/1234/12345678/25411
-#EXTINF:-1 group-title="INDIA TV",URDU: ARY News
-http://red.ipfox.org:8080/1234/12345678/25410
-#EXTINF:-1 group-title="INDIA TV",URDU: Express News
-http://red.ipfox.org:8080/1234/12345678/25409
-#EXTINF:-1 group-title="INDIA TV",URDU: GEO News
-http://red.ipfox.org:8080/1234/12345678/25408
-#EXTINF:-1 group-title="INDIA TV",URDU: GEO TV
-http://red.ipfox.org:8080/1234/12345678/25407
-#EXTINF:-1 group-title="INDIA TV",URDU: ARY QTV
-http://red.ipfox.org:8080/1234/12345678/25406
-#EXTINF:-1 group-title="INDIA TV",URDU: ARY Zauq
-http://red.ipfox.org:8080/1234/12345678/25405
-#EXTINF:-1 group-title="INDIA TV",URDU: Dunya TV
-http://red.ipfox.org:8080/1234/12345678/25404
-#EXTINF:-1 group-title="INDIA TV",URDU: Express Entertainment
-http://red.ipfox.org:8080/1234/12345678/25403
-#EXTINF:-1 group-title="INDIA TV",URDU: AAG Television
-http://red.ipfox.org:8080/1234/12345678/25402
-#EXTINF:-1 group-title="INDIA TV",URDU: TV One
-http://red.ipfox.org:8080/1234/12345678/25401
-#EXTINF:-1 group-title="INDIA TV",URDU: HUM TV
-http://red.ipfox.org:8080/1234/12345678/25400
-#EXTINF:-1 group-title="INDIA TV",URDU: HUM Sitaray
-http://red.ipfox.org:8080/1234/12345678/25399
-#EXTINF:-1 group-title="INDIA TV",URDU: HUM Masala
-http://red.ipfox.org:8080/1234/12345678/25398
-#EXTINF:-1 group-title="INDIA TV",URDU: News18 Urdu
-http://red.ipfox.org:8080/1234/12345678/25397
-#EXTINF:-1 group-title="INDIA TV",URDU: PTV Global
-http://red.ipfox.org:8080/1234/12345678/25396
-#EXTINF:-1 group-title="INDIA TV",Punjabi: Jus Punjabi
-http://red.ipfox.org:8080/1234/12345678/25395
-#EXTINF:-1 group-title="INDIA TV",Punjabi: PTC Punjabi
-http://red.ipfox.org:8080/1234/12345678/25394
-#EXTINF:-1 group-title="INDIA TV",Punjabi: Alpha ETC Punjabi
-http://red.ipfox.org:8080/1234/12345678/25393
-#EXTINF:-1 group-title="INDIA TV",Punjabi: 9X Tashan
-http://red.ipfox.org:8080/1234/12345678/25392
-#EXTINF:-1 group-title="INDIA TV",Punjabi: PTC Chak De
-http://red.ipfox.org:8080/1234/12345678/25391
-#EXTINF:-1 group-title="INDIA TV",Punjabi: PTC News
-http://red.ipfox.org:8080/1234/12345678/25390
-#EXTINF:-1 group-title="INDIA TV",Punjabi: JUS One
-http://red.ipfox.org:8080/1234/12345678/25389
-#EXTINF:-1 group-title="INDIA TV",Punjabi: Zee Punjabi
-http://red.ipfox.org:8080/1234/12345678/25388
-#EXTINF:-1 group-title="INDIA TV",Punjabi: News18 Punjab
-http://red.ipfox.org:8080/1234/12345678/25387
-#EXTINF:-1 group-title="INDIA TV",Punjabi: Garv Punjab
-http://red.ipfox.org:8080/1234/12345678/25386
-#EXTINF:-1 group-title="INDIA TV",Punjabi: Garv Punjab Gurbani
-http://red.ipfox.org:8080/1234/12345678/25385
-#EXTINF:-1 group-title="INDIA TV",Punjabi: Chardikla Time TV
-http://red.ipfox.org:8080/1234/12345678/25384
-#EXTINF:-1 group-title="INDIA TV",Punjabi: Desi Channel
-http://red.ipfox.org:8080/1234/12345678/25383
-#EXTINF:-1 group-title="INDIA TV",Punjabi: Sanjha TV
-http://red.ipfox.org:8080/1234/12345678/25382
-#EXTINF:-1 group-title="INDIA TV",Punjabi: Only Music
-http://red.ipfox.org:8080/1234/12345678/25381
-#EXTINF:-1 group-title="INDIA TV",Punjabi: News Only
-http://red.ipfox.org:8080/1234/12345678/25380
-#EXTINF:-1 group-title="INDIA TV",Punjabi: PTC Punjabi Gold
-http://red.ipfox.org:8080/1234/12345678/25379
-#EXTINF:-1 group-title="INDIA TV",Punjabi: PTC Simran
-http://red.ipfox.org:8080/1234/12345678/25378
-#EXTINF:-1 group-title="INDIA TV",Punjabi: PTC Dhol TV
-http://red.ipfox.org:8080/1234/12345678/25377
-#EXTINF:-1 group-title="INDIA TV",Punjabi: PTC Music
-http://red.ipfox.org:8080/1234/12345678/25376
-#EXTINF:-1 group-title="INDIA TV",Punjabi: Gurbaani TV
-http://red.ipfox.org:8080/1234/12345678/25375
-#EXTINF:-1 group-title="INDIA TV",Telugu: Zee Cinemalu
-http://red.ipfox.org:8080/1234/12345678/25374
-#EXTINF:-1 group-title="INDIA TV",Telugu: Gemini TV
-http://red.ipfox.org:8080/1234/12345678/25373
-#EXTINF:-1 group-title="INDIA TV",Telugu: Gemini Movies
-http://red.ipfox.org:8080/1234/12345678/25372
-#EXTINF:-1 group-title="INDIA TV",Telugu: Gemini Comedy
-http://red.ipfox.org:8080/1234/12345678/25371
-#EXTINF:-1 group-title="INDIA TV",Telugu: TV5 News
-http://red.ipfox.org:8080/1234/12345678/25370
-#EXTINF:-1 group-title="INDIA TV",Telugu: Zee Telugu
-http://red.ipfox.org:8080/1234/12345678/25369
-#EXTINF:-1 group-title="INDIA TV",Telugu: SVBC
-http://red.ipfox.org:8080/1234/12345678/25368
-#EXTINF:-1 group-title="INDIA TV",Telugu: Sneha TV
-http://red.ipfox.org:8080/1234/12345678/25367
-#EXTINF:-1 group-title="INDIA TV",Telugu: HMTV
-http://red.ipfox.org:8080/1234/12345678/25366
-#EXTINF:-1 group-title="INDIA TV",Telugu: Sakshi TV
-http://red.ipfox.org:8080/1234/12345678/25365
-#EXTINF:-1 group-title="INDIA TV",Tamil: SUN TV
-http://red.ipfox.org:8080/1234/12345678/25364
-#EXTINF:-1 group-title="INDIA TV",Tamil: KTV
-http://red.ipfox.org:8080/1234/12345678/25363
-#EXTINF:-1 group-title="INDIA TV",Tamil: SUN Music
-http://red.ipfox.org:8080/1234/12345678/25362
-#EXTINF:-1 group-title="INDIA TV",Tamil: Adithya
-http://red.ipfox.org:8080/1234/12345678/25361
-#EXTINF:-1 group-title="INDIA TV",Tamil: Jaya TV
-http://red.ipfox.org:8080/1234/12345678/25360
-#EXTINF:-1 group-title="INDIA TV",Tamil: Jaya Max
-http://red.ipfox.org:8080/1234/12345678/25359
-#EXTINF:-1 group-title="INDIA TV",Tamil: Jaya Plus
-http://red.ipfox.org:8080/1234/12345678/25358
-#EXTINF:-1 group-title="INDIA TV",Tamil: JMovies
-http://red.ipfox.org:8080/1234/12345678/25357
-#EXTINF:-1 group-title="INDIA TV",Tamil: Raj TV
-http://red.ipfox.org:8080/1234/12345678/25356
-#EXTINF:-1 group-title="INDIA TV",Tamil: Raj Digital Plus
-http://red.ipfox.org:8080/1234/12345678/25355
-#EXTINF:-1 group-title="INDIA TV",Tamil: Raj Musix
-http://red.ipfox.org:8080/1234/12345678/25354
-#EXTINF:-1 group-title="INDIA TV",Tamil: Raj News
-http://red.ipfox.org:8080/1234/12345678/25353
-#EXTINF:-1 group-title="INDIA TV",Tamil: Zee Tamil
-http://red.ipfox.org:8080/1234/12345678/25352
-#EXTINF:-1 group-title="INDIA TV",Tamil: Tunes 6
-http://red.ipfox.org:8080/1234/12345678/25351
-#EXTINF:-1 group-title="INDIA TV",Tamil: News18 Tamil
-http://red.ipfox.org:8080/1234/12345678/25350
-#EXTINF:-1 group-title="INDIA TV",Tamil: Colors Tamil
-http://red.ipfox.org:8080/1234/12345678/25349
-#EXTINF:-1 group-title="INDIA TV",Bangla: Channel I
-http://red.ipfox.org:8080/1234/12345678/25348
-#EXTINF:-1 group-title="INDIA TV",Bangla: Colors Bangla
-http://red.ipfox.org:8080/1234/12345678/25347
-#EXTINF:-1 group-title="INDIA TV",Bangla: NTV Bangla
-http://red.ipfox.org:8080/1234/12345678/25346
-#EXTINF:-1 group-title="INDIA TV",Bangla: ATN News
-http://red.ipfox.org:8080/1234/12345678/25345
-#EXTINF:-1 group-title="INDIA TV",Bangla: Zee Bangla
-http://red.ipfox.org:8080/1234/12345678/25344
-#EXTINF:-1 group-title="INDIA TV",Bangla: Zee Bangla Cinema
-http://red.ipfox.org:8080/1234/12345678/25343
-#EXTINF:-1 group-title="INDIA TV",Bangla: 24 Ghanta
-http://red.ipfox.org:8080/1234/12345678/25342
-#EXTINF:-1 group-title="INDIA TV",Bangla: News18 Bangla
-http://red.ipfox.org:8080/1234/12345678/25341
-#EXTINF:-1 group-title="INDIA TV",Bangla: ATN Bangla
-http://red.ipfox.org:8080/1234/12345678/25340
+
+#EXTINF:0 ,Aastha
+http://185.132.132.192/AASTHA/mono.m3u8
+#EXTINF:0 ,Aastha Bhajan
+http://185.132.132.192/AASTHABHAJAN/mono.m3u8
+#EXTINF:0 ,Baby TV
+http://185.132.132.192/BABYTV/mono.m3u8
+#EXTINF:0 ,Chardikla Time TV
+http://185.132.132.192/CHARDIKLATIMETV/mono.m3u8
+#EXTINF:0 ,Isaiaruvi
+http://185.132.132.192/ISAIARUVI/mono.m3u8
+#EXTINF:0 ,Kalaignar TV
+http://185.132.132.192/KALAIGNARTV/mono.m3u8
+#EXTINF:0 ,Manoranjan Movies
+http://185.132.132.192/MANORANJANMOVIES/mono.m3u8
+#EXTINF:0 ,MTV HD+
+http://185.132.132.192/MTVHDPLUS/mono.m3u8
+#EXTINF:0 ,ShowBox
+http://185.132.132.192/SHOWBOX/mono.m3u8
+#EXTINF:0 ,Vijay Super
+http://185.132.132.192/VIJAYSUPER/mono.m3u8
+#EXTINF:0 ,MH1 News
+http://185.132.132.192/MH1NEWS/mono.m3u8
+#EXTINF:0 ,Zee Business
+http://185.132.132.192/ZEEBUSINESS/mono.m3u8
+#EXTINF:0 ,PTC Simran
+http://185.132.132.192/PTCSIMRAN/mono.m3u8
+#EXTINF:0 ,Colors Gujarati Cinema
+http://185.132.132.192/COLORSGUJARATICINEMA/mono.m3u8
+#EXTINF:0 ,Sahana TV
+http://185.132.132.192/SAHANATV/mono.m3u8
+#EXTINF:0 ,Sky Sports F1
+http://185.132.132.192/SKYSPF1/mono.m3u8
+#EXTINF:0 ,Jus ONE HD
+http://185.132.132.192/JUSONETV/mono.m3u8
+#EXTINF:0 ,MH1 Music
+http://185.132.132.192/MH1MUSIC/mono.m3u8
+#EXTINF:0 ,PTC Chakde
+http://185.132.132.192/ptcchakde/mono.m3u8
+#EXTINF:0 ,Utsav Plus
+http://185.132.132.192/UtsavPlus/mono.m3u8
+#EXTINF:0,ZEE Thirai
+http://185.132.132.192/ZEETHIRAI/mono.m3u8
+#EXTINF:0 ,ZEE TV HD
+http://185.132.132.192/ZHD/mono.m3u8
